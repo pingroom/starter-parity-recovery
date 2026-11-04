@@ -1,0 +1,12 @@
+node_modules/
+.env
+.env.*
+!.env.example
+/.pingroom/
+/.parity/
+/.parity-prep/
+/config.json
+/packet.json
+/packet-meta.json
+/payload.bin
+.DS_Store

@@ -1,0 +1,22 @@
+{
+  "packetId": "practice-label",
+  "title": "Paper craft practice label",
+  "context": "Non-secret transcription exercise",
+  "dataLength": 32,
+  "shardBytes": 16,
+  "shards": [
+    {
+      "id": "d1",
+      "sha256": "2cef05c99a4f2f5fc5c279162b5cdd73352dd773797d00d47a50c5e14b482856"
+    },
+    {
+      "id": "d2",
+      "sha256": "73aa06d6deb84b444ba3b30e6bd728dad14328bd8738e7afa7d5c730c518fddf"
+    },
+    {
+      "id": "p",
+      "sha256": "b25ba7c4d5190af1476a1588ee4392c0f0b83ce18b1cf1416a8efd8c102682c2"
+    }
+  ],
+  "payloadSha256": "6669b09786472a28dfed88998a85e2bd5903d793fce79a60aaafe68417ceb7be"
+}
